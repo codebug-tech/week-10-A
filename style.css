@@ -7,7 +7,19 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: rgba(255, 0, 0, 0.6);
 }
 .word {
   border: 1px solid black;
+  text-align: center;
+}
+
+.unwantedWord {
+  border: 1px solid black;
+  text-align: center;
+}
+
+#body {
+  background-color: #32d18e;
+  font-family: 'Indie Flower', cursive;
 }
