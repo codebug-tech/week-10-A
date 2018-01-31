@@ -7,7 +7,23 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: rgba(247, 136, 234, 0.3);
+  text-align: center;
 }
 .word {
   border: 1px solid black;
+}
+
+#body {
+background-color: rgb(170, 203, 255);
+font-family: 'Fjalla One', sans-serif;
+}
+
+./*parallax {
+  background-image = "beachtime";
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;*/
 }
